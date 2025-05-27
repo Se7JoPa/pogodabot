@@ -1,0 +1,6 @@
+[env]
+BOT_TOKEN=7961653677:AAGi3mnvMmoCgD9GAHBqcooCBKhyw_yzAdk
+OWM_API_KEY=13549d5eb2ee34b66ea7659a72827c4b
+
+[dev]
+command = "python pogodabot.py"
